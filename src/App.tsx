@@ -65,10 +65,18 @@ function App() {
             bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 
             dark:from-indigo-400 dark:via-purple-400 dark:to-pink-400 mb-4
             animate-gradient bg-300%">
-            YouTube Playlist Calculator
+            Playlist Timekeeper
           </h1>
-          <p className="text-lg text-gray-600 dark:text-gray-400">
-            Plan your learning journey by calculating total watch time
+          <p className="text-lg text-gray-600 dark:text-gray-400 mb-6">
+            Plan Your Learning Journey by Calculating Total Watch Time
+          </p>
+          <p className="max-w-2xl mx-auto text-base leading-relaxed text-gray-500 dark:text-gray-400">
+            Welcome to Playlist Timekeeper, your ultimate companion for managing
+            YouTube playlists! This app is designed to help you effortlessly
+            calculate the total watch time of any YouTube playlist, enabling you
+            to plan your viewing schedule effectively. Whether you're a student
+            looking to optimize your learning or a binge-watcher wanting to
+            organize your entertainment, Playlist Timekeeper makes it easy.
           </p>
         </div>
 
